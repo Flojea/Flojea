@@ -1,6 +1,6 @@
 ### Hello, I'm Florian
 
-- :office: I am currently in my last year of a master's degree in data science and I am doing a work-study at Würth
+- :office: I am currently in my last year of a master's degree in data science at the Faculté des Sciences Economiques et de Gestion and I am doing a work-study at Würth
 
 - :open_file_folder: Im currently learning machine learning and deep learning algorithms 
 
