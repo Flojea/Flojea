@@ -30,9 +30,9 @@ On this Github you will find my personnal and my school projects.
 
 ### :rocket: My IDE :
 
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
@@ -43,12 +43,12 @@ On this Github you will find my personnal and my school projects.
 ![](https://img.shields.io/badge/scikit-013243.svg?logo=scikit&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=Streamlit&logoColor=white)
 
 
 ### :hammer:  Tools with R :
-![](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
-![](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Leaflet-199900.svg?logo=Leaflet&logoColor=white)
+![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
 
 
 ### :mag_right: What I am focusing on in 2023 :
