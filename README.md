@@ -49,10 +49,12 @@ On this Github you will find my personnal and my school projects.
 ### :hammer:  Tools with R :
 ![](https://img.shields.io/badge/Leaflet-199900.svg?logo=Leaflet&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Dplyr-FF4B4B.svg?logo=dplyr&logoColor=white)
+![](https://img.shields.io/badge/Shiny-013243.svg?logo=shiny&logoColor=white)
+![](https://img.shields.io/badge/Ggplot-150458.svg?logo=ggplot&logoColor=white)
+
 
 
 ### :mag_right: What I am focusing on in 2023 :
 
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+In 2023, my main goal is to continue to learn new things, focusing on Cloud and how to effectively use the tools i know and i will learn in a profesionnal world
