@@ -1,6 +1,3 @@
-
-![Header](./github-header-image.png)
-
 ### Hello, I'm Florian
 
 - :office: I am currently in my last year of a master's degree in data science and I am doing a work-study at Würth
